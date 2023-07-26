@@ -1,0 +1,15 @@
+C:\new courses\.Net core & Angular\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\new courses\.Net core & Angular\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\new courses\.Net core & Angular\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\new courses\.Net core & Angular\skinet\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\new courses\.Net core & Angular\skinet\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\new courses\.Net core & Angular\skinet\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

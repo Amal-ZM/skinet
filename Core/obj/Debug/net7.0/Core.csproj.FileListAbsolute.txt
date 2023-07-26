@@ -1,0 +1,12 @@
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\new courses\.Net core & Angular\skinet\Core\bin\Debug\net7.0\Core.deps.json
+C:\new courses\.Net core & Angular\skinet\Core\bin\Debug\net7.0\Core.dll
+C:\new courses\.Net core & Angular\skinet\Core\bin\Debug\net7.0\Core.pdb
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.dll
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\refint\Core.dll
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\Core.pdb
+C:\new courses\.Net core & Angular\skinet\Core\obj\Debug\net7.0\ref\Core.dll
